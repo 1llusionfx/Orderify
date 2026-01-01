@@ -2,7 +2,7 @@
 Order Management Discord Bot. Advanced, Feature-rich and modern discord.py Bot for managing Orders with a live Panel/Updates &amp; inbuilt configurable Invoice Generator, Feedback System and License Tracking.
 
 ## Startup Instructions via Terminal
-`git clone https://github.com/1llusionfx/Orderify.git`
+`git clone https://github.com/1llusionfx/Orderify`
 
 `cd Orderify`
 
